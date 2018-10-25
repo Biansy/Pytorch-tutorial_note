@@ -1,0 +1,4 @@
+*.pkl
+*.zip
+*.ckpt
+data/
